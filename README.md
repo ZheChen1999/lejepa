@@ -4,6 +4,7 @@
 [arXiv:2511.08544](https://arxiv.org/abs/2511.08544)
 ---
 
+Rush to our [minimal working example](MINIMAL.md) to see a full-fledge working example (ViT, inet).
 
 ## Demo
 
